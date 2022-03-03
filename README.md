@@ -1,11 +1,8 @@
 # Gavrilov
 
+CREATE DATABASE testUD;
+CREATE DATABASE IF NOT EXISTS test;
+DROP DATABASE testUD;
 
 
 
-3131313
-313232 232ff
-e2324ewe123 21
-
-eqeqeeqeqeq
-eqeqeq
